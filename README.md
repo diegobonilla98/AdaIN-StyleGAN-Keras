@@ -9,3 +9,9 @@ Batch size of 1 due to memory limitations, not enough epochs and the learning ra
 ## Results
 ![](./result.png)
 
+## Update!
+Added the code to perform style interpolation with the content-style combined features and the content features as described in the paper. Here are the results:
+![](./puntillismo.png)
+![](./vandog.png)
+![](./kandinsky.png)
+
